@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="selected_item">Selected item:</string>
+    <string-array name="Languages">
+        <item>English</item>
+        <item>German</item>
+        <item>Dog</item>
+        <item>Spanish</item>
+    </string-array>
+    <string-array name="TranslateFrom">
+        <item>English</item>
+        <item>German</item>
+        <item>Dog</item>
+        <item>Spanish</item>
+    </string-array>
+    <string-array name="TranslateTo">
+        <item>English</item>
+        <item>German</item>
+        <item>Dog</item>
+        <item>Spanish</item>
+    </string-array>
 </resources>
